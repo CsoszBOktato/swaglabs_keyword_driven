@@ -42,6 +42,6 @@ This will run only the test cases in the login_tests.robot file.
 The project includes the following test cases:
 
 - login_tests.robot
-- checkout_tests.robot
-- checkout_info_test.robot
 - add_to_cart_test.robot
+- checkout_info_test.robot
+- checkout_tests.robot
